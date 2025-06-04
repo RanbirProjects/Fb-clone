@@ -1,6 +1,11 @@
 # Facebook Clone
 
 A full-stack Facebook clone built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
+Create Account 
+![F15BC3A5-182B-453F-8176-98AAA210FBED_1_105_c](https://github.com/user-attachments/assets/2796ab62-6ee6-45cd-ae09-a96a5a3fded8)
+Profile page
+
+![FE5FA96C-BBD4-49A0-8E83-DA924C2B6833_1_105_c](https://github.com/user-attachments/assets/4d3c4cc5-4419-4df7-b425-cce7513b3ab3)
 
 ## Features
 
